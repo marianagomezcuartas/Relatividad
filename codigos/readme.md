@@ -1,2 +1,1 @@
 Se presentan los notebooks asociados con los desarrollos del libro guia del curso
-n 
